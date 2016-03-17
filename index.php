@@ -102,9 +102,7 @@
 	<script src="public/js/jquery-1.12.1.js"></script>
 	<script src="public/js/bootstrap.js"></script>
 
-	<center><video autobuffer autoloop loop controls autoplay="true" width="600">
-	<source src="public/videos/1.mp4">
-	</video></center>
+	
 		</div>
 		<div id="carousel-id" class="carousel slide" data-ride="carousel">
 			<ol class="carousel-indicators">
